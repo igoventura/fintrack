@@ -1,0 +1,4 @@
+.env
+.env.local
+fintrack-api
+fintrack-web
