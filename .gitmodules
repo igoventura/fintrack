@@ -1,0 +1,6 @@
+[submodule "fintrack-api"]
+	path = fintrack-api
+	url = git@github.com:igoventura/fintrack-api.git
+[submodule "fintrack-web"]
+	path = fintrack-web
+	url = git@github.com:igoventura/fintrack-web.git
